@@ -18,7 +18,7 @@ $ make install
 $ python main.py
 ```
 
-## setting
+## Configuration
 ```
 generator:
   count: 100  # The number of records you want to generate
@@ -34,3 +34,8 @@ logging:
   debug: false
   path: error.log  # if debug is set to true, then it outputs errors into log file you specified.
 ```
+
+## not-fixed-yet bugs
+- Unable to insert dummy records into databases as you specified in your configuration
+  - Duplicate Key Errors
+  - etc...
