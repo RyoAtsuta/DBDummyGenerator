@@ -3,11 +3,15 @@
 This tool generates dummy data into databases you specified based of the information_schemas of the databases,
 so you don't need manually to add dummy data or to implement a program each time.
 
-## Pip Install
-- MySQLdb
-- yaml
-- faker
-- jinja2
+## Python Version
+```
+Python 3.8.12
+```
+
+## Install
+```
+$ make install
+```
 
 ## Run
 ```

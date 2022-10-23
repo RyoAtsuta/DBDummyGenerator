@@ -1,0 +1,4 @@
+faker
+mysqlclient
+jinja2
+pyyaml
