@@ -1,0 +1,12 @@
+generator:
+  count: 100
+database:
+  names: ['<database1>', '<database2>']
+  host: '127.0.0.1'
+  user: 'root'
+  pass: 'root'
+  port: 13306
+logging:
+  debug: false
+  path: error.log
+
