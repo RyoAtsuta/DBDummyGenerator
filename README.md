@@ -1,6 +1,6 @@
 # DBDummyGenerator
 ## Description
-This tool generates dummy data into databases you specified based of the information_schemas of the databases,
+This tool generates dummy data into databases you specified based on the information_schemas of the databases,
 so you don't need manually to add dummy data or to implement a program each time.
 
 ## Python Version
